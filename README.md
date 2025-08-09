@@ -16,7 +16,7 @@
 
 -Curso Empreendedorismo SEBRAE & VALE VERDE (15/02/2025 21/07/2025)
 -Encino medio incompleto
-
+-Curso Programação com java e C# em andamento
 
 
 
