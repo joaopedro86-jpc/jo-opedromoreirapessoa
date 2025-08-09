@@ -1,11 +1,35 @@
-# jo∆opedromoreirapessoa 
-## Sou Jo„o Pedro
+# jo√Üopedromoreirapessoa 
+## Sou Jo√£o Pedro
 -Brasileiro
--Estudante do curso de "ProgramaÁao com java e C#"
+-Estudante do curso de "Programa√ßao com java e C#"
 -Natural de Itabira MG
 
 ## Meus Objetivos
 
 
--Dominar a logica de programaÁ„o
--Aprender mais sobre linguagem de programaÁ„o
+-Dominar a logica de programa√ß√£o
+-Aprender mais sobre linguagem de programa√ß√£o
+
+
+##  Minhas Experiencias
+
+
+-Curso Empreendedorismo SEBRAE & VALE VERDE (15/02/2025 21/07/2025)
+-Encino medio incompleto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
